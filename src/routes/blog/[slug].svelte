@@ -59,6 +59,8 @@
 
 <h1>{post.title}</h1>
 
+test
+
 <div class="content">
 	{@html post.html}
 </div>
